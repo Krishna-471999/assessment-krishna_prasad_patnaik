@@ -42,5 +42,13 @@ sup {
   vertical-align: 5px;
   line-height: 0;
 }
+.text-mosque{color:  #005555;
+  
 
+}
 
+.rounded-xl{
+  background: #005555;
+  color: #FFFFFF;
+  display: inline-block;
+}
